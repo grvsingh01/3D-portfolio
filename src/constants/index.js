@@ -96,10 +96,10 @@ import {
       name: "MongoDB",
       icon: mongodb,
     },
-    // {
-    //   name: "Three JS",
-    //   icon: threejs,
-    // },
+    {
+      name: "Three JS",
+      icon: threejs,
+    },
     {
       name: "git",
       icon: git,
@@ -119,7 +119,7 @@ import {
       title: "Web Developer",
       company_name: "Asper",
       icon: starbucks,
-      iconBg: "#E6DEDD",
+      iconBg: "#000",
       date: "Dec 2020 - Jan 2022",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
@@ -132,7 +132,7 @@ import {
       title: "Web Developer",
       company_name: "Semikolan.com",
       icon: shopify,
-      iconBg: "#E6DEDD",
+      iconBg: "#000",
       date: "Apr 2021 - Feb 2022",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
@@ -144,7 +144,7 @@ import {
       title: "Subject Matter Expert",
       company_name: "Chegg.com",
       icon: tesla,
-      iconBg: "#E6DEDD",
+      iconBg: "#000",
       date: "Oct 2022 - Mar 2023",
       points: [
         "Subject matter expert of computer science and engineering.",
